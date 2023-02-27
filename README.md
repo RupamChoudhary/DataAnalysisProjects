@@ -1,2 +1,1 @@
-# DataAnalysisProjects
-This Contain Data Analysis Projects . I worked on these projects using MYSQL ,Excel ,Power bi
+To download SQL dump files and other files for any of the projects in this repository, please click on green Code button at top right and click on Download Zip as shown below.
